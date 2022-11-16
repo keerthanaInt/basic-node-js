@@ -1,0 +1,20 @@
+{
+  "name": "04-eventemiter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logEvent.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.2",
+    "uuid": "^8.3.2"
+  }
+}

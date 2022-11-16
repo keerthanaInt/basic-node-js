@@ -1,0 +1,22 @@
+13:44:39 error: TypeError:res.json is not a function
+13:46:46 error: TypeError:res.json is not a function
+13:47:07 error: TypeError:res.json is not a function
+13:49:05 error: TypeError:res.json is not a function
+13:49:12 error: TypeError:res.json is not a function
+13:49:13 error: TypeError:res.json is not a function
+13:49:20 error: TypeError:res.json is not a function
+13:49:25 error: TypeError:res.json is not a function
+13:49:33 error: TypeError:res.json is not a function
+13:50:55 info: GET:/
+13:51:43 info: GET:/
+13:52:13 info: GET:/
+13:55:06 error: GET:/get
+13:55:32 error: GET:/get
+13:30:39 info: GET:/
+14:56:36 info: GET:/
+14:58:49 info: GET:/
+14:59:24 info: GET:/
+14:59:31 info: GET:/
+15:03:27 info: GET:/
+15:04:15 info: GET:/
+18:18:02 info: GET:/
